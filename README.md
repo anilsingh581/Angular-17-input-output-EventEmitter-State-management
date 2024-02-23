@@ -1,6 +1,7 @@
 # Signals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+YouTube Video [How to use @Input and @Output EventEmitter in Angular 17](https://youtu.be/uAuwqPNJ4UU?sub_confirmation=1)
 
 ## Development server
 
